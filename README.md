@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Palanisamy.
-- 💻 Frontend Web Developer.
+- 💻 I'm a Web Developer.
 - 👀 I’m interested in creating web applications.
 - 🌱 I’m currently learning Backend Technology.
 - 😄 Pronouns: his/him
